@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishaldange07" target="blank"><img src="https://img.shields.io/twitter/follow/vishaldange07?logo=twitter&style=for-the-badge" alt="vishaldange07" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Security and Microservices**
-
 - 📫 How to reach me **vishaldange2002@gmail.com**
-
-- ⚡ Fun fact **I am upbeat and playful!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
