@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Vishal Dange, a recent Bachelor of Technology graduate in Computer Science and Engineering with a strong foundation in full-stack development. Proficient in technologies like Spring Boot, React, and MySQL, I have successfully built projects like FoodSphere and TaskTrack, showcasing expertise in building secure, scalable, and user-centric applications. I am eager to bring my skills and enthusiasm to your team, ready to contribute and grow while delivering impactful solutions.
+I am Vishal Dange, Proficient in technologies like Spring Boot, React, and MySQL.I have successfully built projects like FoodSphere and TaskTrack, showcasing expertise in building secure, scalable, and user-centric applications. I am eager to bring my skills and enthusiasm to your team, ready to contribute and grow while delivering impactful solutions.
 
 
 ## 🌐 Socials:
